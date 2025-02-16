@@ -27,12 +27,10 @@ Liner is a graphical tool designed for creating and editing lattice structures w
 - **Right Click (on Node):** Start or continue removing a line (disconnect nodes).
 - **Double Left Click:** Finalize line from preview.
 - **Q :** Select line color (cycle through preset colors).
-- **Scroll:**change mode(Fill,Line,Erase).
+- **Scroll :**change mode(Fill,Line,Erase).
 - **T:** Toggle grid visibility (show/hide nodes).
 - **E + Scroll Up:** Increase node spacing.
 - **E + Scroll Down:** Decrease node spacing.
-- **R + Scroll Up:** Redo last action.
-- **R + Scroll Down:** Undo last action.
 
 Note: This game is not perfect a lot of bug 
 
