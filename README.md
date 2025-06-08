@@ -7,10 +7,9 @@ Liner is a graphical tool designed for creating and editing lattice structures w
 - **LatticeConnect Controls:** Draw and edit lattice lines and shapes with ease.
 
 ## Showcase
-- [![Alt text](https://www.youtube.com/watch?v=rAy-jqk0AaI) **https://youtu.be/rAy-jqk0AaI**
-https://www.youtube.com/watch?v=rAy-jqk0AaI
-https://img.youtube.com/vi/rAy-jqk0AaI/0.jpg
----
+[![Watch the video](https://img.youtube.com/vi/rAy-jqk0AaI/maxresdefault.jpg)](https://youtu.be/rAy-jqk0AaI)
+
+### [Watch this video on YouTube](https://youtu.be/rAy-jqk0AaI)
 
 ## 🚀 Fly Camera Controls
 - **W / A / S / D:** Move forward, left, backward, right (relative to camera rotation).
